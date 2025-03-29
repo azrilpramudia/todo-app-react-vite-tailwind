@@ -2,10 +2,10 @@
 ## Watch Video Here 👇
 [This Video](https://youtube.com) 
 
-# Tech Stack
+## Tech Stack
 - React
 - Vite
 - Tailwind
 
-# Preview
+## Preview
 [images]()
